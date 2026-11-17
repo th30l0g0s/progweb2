@@ -61,7 +61,7 @@ Fichier : `exercices/01_fonctions/functions.js`
 
 Fichier : `exercices/02_tableaux/array.js`
 
-> ⚠️ Les tableaux `numbers` et `strings` sont des **exemples** : à remplacer par ceux de l'énoncé. Les fonctions marchent avec n'importe quel contenu et **ne modifient jamais** le tableau reçu (`Object.freeze`).
+> Données de l'énoncé : `numbers = [3, 14, 15, 92, 65, 35, 89, 79, 32, 38]` et `strings = ["Sator", "Arepo", "Tenet", "Opera", "Rotas"]` (carré SATOR). Les fonctions marchent avec n'importe quel contenu et **ne modifient jamais** le tableau reçu (`Object.freeze`).
 
 ### Nombres
 
